@@ -1,4 +1,3 @@
-This is a test file.
+line 1 is for master
 
-Here is another line for updating's sake. foo_feature edit must be on a differnt line than the master README edit D:
-
+line 2 is for
